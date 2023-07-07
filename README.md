@@ -1,16 +1,12 @@
 # satsang_diksha_app
 
-A new Flutter project.
+## Screenshot 
 
-## Getting Started
+<img src = "https://github.com/HinalGhelani/satsangdiksha-App/assets/121785230/c39f8b16-da3e-49ff-8ba1-43f4af1b28ba" height = "500px"/>
+<img src = "https://github.com/HinalGhelani/satsangdiksha-App/assets/121785230/92dd94ae-db61-4e6b-9cd1-a3c7754824ed" height = "500px"/>
+<img src = "https://github.com/HinalGhelani/satsangdiksha-App/assets/121785230/f4f3e328-d84f-4b10-9e3c-2e81b7756813" height = "500px"/>
+<img src = "https://github.com/HinalGhelani/satsangdiksha-App/assets/121785230/f9e16ec1-344e-4edc-8a3d-0bd9991a6574" height = "500px"/>
 
-This project is a starting point for a Flutter application.
+https://github.com/HinalGhelani/satsangdiksha-App/assets/121785230/cee086c2-5f69-4447-8a8f-05de57c167ce
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
